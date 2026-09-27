@@ -2,5 +2,11 @@
 
 A new Flutter project.
 
-# To see the Login and Register Page go to the lib/Pages folder there is the image of login.dart and register.dart
+# To see the Login and Register Page Code go to the lib/Pages folder 
+# To see the Login and Register Images go to the lib/Images folder
+
+
+
+Thank You
+# Melan Parajuli
   
